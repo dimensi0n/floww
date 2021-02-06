@@ -1,7 +1,7 @@
 {
-  "name": "brainotes",
+  "name": "floww",
   "version": "1.0.0",
-  "description": "Get knowledges and skills into your brain not into your notes.",
+  "description": "All-in-one boilerplate for web developement",
   "main": "build/index.js",
   "author": "Erwan ROUSSEL",
   "license": "GPL-v3",
